@@ -5,3 +5,4 @@
 3. Добавьте в try строку 
 FileReader fileReader = new FileReader("любой пусть");
 И добавьте второй блок catch для обработки FileNotFoundException
+4. Создайте класс Student и используйте его в коллекциях ArrayList, HashSet, LinkedHashSet, TreeSet, HashMap. Для каждой коллекции используйте методы для добавления,получения(только для ArrayList и HashMap), удаления элементов, расспечатайте коллекции
